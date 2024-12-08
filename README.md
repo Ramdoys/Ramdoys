@@ -5,6 +5,6 @@ I love helping out with open-source projects as much as I can, and I am always e
 My goal is to make software faster for everyone, saving time for all.
 
 You can contact me through the following places:
-Discord - @ramdoys
-X (formerly twitter) - @ramdoysing
-Email - ramdoysdirect+github@gmail.com
+- Discord - @ramdoys
+- X (formerly twitter) - @ramdoysing
+- Email - ramdoysdirect+github@gmail.com
