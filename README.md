@@ -9,5 +9,4 @@ Feel free to contact me through the following places:
 - X (formerly Twitter) - @ramdoysing
 - Email - ramdoysdirect+github@gmail.com
 
-Memento mori ...
-Memento vivere ...
+Memento mori.
