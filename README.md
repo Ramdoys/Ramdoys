@@ -6,5 +6,8 @@ My goal is to make software faster for everyone, saving time for all.
 
 Feel free to contact me through the following places:
 - Discord - @ramdoys
-- X (formerly twitter) - @ramdoysing
+- X (formerly Twitter) - @ramdoysing
 - Email - ramdoysdirect+github@gmail.com
+
+Memento mori ...
+Memento vivere ...
