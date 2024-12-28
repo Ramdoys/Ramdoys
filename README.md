@@ -6,6 +6,6 @@ I love helping out with open-source projects as much as I can, and I am always e
 Feel free to contact me through the following places:
 - Discord - `@ramdoys` (521090674779619341)
 - X (formerly Twitter) - `@ramdoysing`
-- Email - `ramdoysdirect+github@gmail.com`
+- Email - ramdoysdirect+github@gmail.com
 
 Memento mori.
